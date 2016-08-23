@@ -1,0 +1,144 @@
+(
+    [stats] => stdClass Object
+        (
+            [href] => https://crest-tq.eveonline.com/solarsystems/30000001/stats/
+        )
+
+    [planets] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [href] => https://crest-tq.eveonline.com/planets/40000002/
+                    [moons] => Array
+                        (
+                            [0] => stdClass Object
+                                (
+                                    [href] => https://crest-tq.eveonline.com/moons/40000004/
+                                )
+
+                        )
+
+                )
+
+            [1] => stdClass Object
+                (
+                    [href] => https://crest-tq.eveonline.com/planets/40000005/
+                )
+
+            [2] => stdClass Object
+                (
+                    [href] => https://crest-tq.eveonline.com/planets/40000007/
+                )
+
+            [3] => stdClass Object
+                (
+                    [href] => https://crest-tq.eveonline.com/planets/40000008/
+                    [moons] => Array
+                        (
+                            [0] => stdClass Object
+                                (
+                                    [href] => https://crest-tq.eveonline.com/moons/40000010/
+                                )
+
+                        )
+
+                )
+
+            [4] => stdClass Object
+                (
+                    [href] => https://crest-tq.eveonline.com/planets/40000011/
+                    [moons] => Array
+                        (
+                            [0] => stdClass Object
+                                (
+                                    [href] => https://crest-tq.eveonline.com/moons/40000012/
+                                )
+
+                            [1] => stdClass Object
+                                (
+                                    [href] => https://crest-tq.eveonline.com/moons/40000013/
+                                )
+
+                            [2] => stdClass Object
+                                (
+                                    [href] => https://crest-tq.eveonline.com/moons/40000014/
+                                )
+
+                            [3] => stdClass Object
+                                (
+                                    [href] => https://crest-tq.eveonline.com/moons/40000015/
+                                )
+
+                            [4] => stdClass Object
+                                (
+                                    [href] => https://crest-tq.eveonline.com/moons/40000016/
+                                )
+
+                        )
+
+                )
+
+            [5] => stdClass Object
+                (
+                    [href] => https://crest-tq.eveonline.com/planets/40000017/
+                )
+
+        )
+
+    [stargates] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [id_str] => 50000056
+                    [href] => https://crest-tq.eveonline.com/stargates/50000056/
+                    [id] => 50000056
+                    [name] => Stargate (Akpivem)
+                )
+
+            [1] => stdClass Object
+                (
+                    [id_str] => 50000057
+                    [href] => https://crest-tq.eveonline.com/stargates/50000057/
+                    [id] => 50000057
+                    [name] => Stargate (Sasta)
+                )
+
+            [2] => stdClass Object
+                (
+                    [id_str] => 50000058
+                    [href] => https://crest-tq.eveonline.com/stargates/50000058/
+                    [id] => 50000058
+                    [name] => Stargate (Yuzier)
+                )
+
+        )
+
+    [securityClass] => B
+    [href] => https://crest-tq.eveonline.com/solarsystems/30000001/
+    [id_str] => 30000001
+    [securityStatus] => 0.85832405090332
+    [position] => stdClass Object
+        (
+            [y] => 4.2369443966879E+16
+            [x] => -8.8510792599981E+16
+            [z] => -4.451352534648E+16
+        )
+
+    [sovereignty] => stdClass Object
+        (
+            [id_str] => 500007
+            [href] => https://crest-tq.eveonline.com/alliances/500007/
+            [id] => 500007
+            [name] => Ammatar Mandate
+        )
+
+    [constellation] => stdClass Object
+        (
+            [href] => https://crest-tq.eveonline.com/constellations/20000001/
+            [id] => 20000001
+            [id_str] => 20000001
+        )
+
+    [id] => 30000001
+    [name] => Tanoo
+)
